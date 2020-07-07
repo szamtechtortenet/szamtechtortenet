@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<main bevezetoszoveg="itt van a bevezeto szoveg">
+	<videok name="Köszöntõ">
+		<vid name="Kovács Gyõzõ" file="kovacs_gyozo.rm" cim="Kovács Gyõzõ"/>
+	</videok>
+	<eloadasok name="Elõadások" tooltip="Gyõzõ elõadásai">
+		<tema name="Bevezetõ" directory="bevezeto">
+			<kep name="Kovács Gyõzõ" file="NAPT60.jpg" cim="A könyv és a CD szerzõje: Kovács Gyõzõ villamosmérnök. Az M-3 egyik építõje"/>
+			<kep name="Szcsoti" file="szcsoti.jpg" cim="Az Oroszországban a mai napig is használt abakusz, a szcsoti."/>
+			<kep name="Charles Babbage" file="babbage.jpg" cim="Charles Babbage, az elsõ mechanikus programozható számítógép alkotója."/>
+			<kep name="Differenciagép" file="differenciagep.jpg" cim="Charles Babbage differenciagépének modellje"/>
+			<kep name="Analitikus gép" file="analitikus.jpg" cim="Charles Babbage analitikus gépének modellje."/>
+			<kep name="Ada Byron" file="ada.jpg" cim="Ada Byron, Lady Lovelace, az elsõ  számítógépprogramozó."/>
+			<kep name="Procento" file="PROCENTO.jpg" cim="PROCENTO. Az egyetlen Magyarországon - Kassán - fejlesztett és gyártott mechanikus számológép. Százalékot is számolt, ezért fõleg a bankokban alkalmazták."/>
+			<kep name="Mechanikus számológépek" file="..\hollerith\MECHANIKUS_SZG.jpg" cim="Mechanikus számológépek. Kézi mûködtetésû összeadó és villamosmotorral meghajtott, négymûveletes mechanikus számológép. "/>
+			<kep name="Elsõ lyukkártyás gép" file="..\hollerith\ELSOLYUKKARTYAS.jpg" cim="Hollerith rendezõ- és kártyaszámlálógép. A 80 oszlopos lyukkártyák szétválogatására használták."/>
+			<kep name="80-as lyukkártya" file="..\hollerith\80ASLYUKKARTYA.jpg" cim="80 oszlopos lyukkártya. Hermann Hollerith (1860-1929) a XIX század végén Amerikában fejlesztette ki."/>
+			<kep opt="Elsõ lyukkártyás gép" file="..\hollerith\ELSOLYUKKARTYAS.jpg" cim="Hollerith rendezõ- és kártyaszámlálógép. A 80 oszlopos lyukkártyák szétválogatására használták."/>
+			<kep opt="80-as lyukkártya" file="..\hollerith\80ASLYUKKARTYA.jpg" cim="80 oszlopos lyukkártya. Hermann Hollerith (1860-1929) a XIX század végén Amerikában fejlesztette ki."/>
+			<kep name="IBM szorter " file="..\hollerith\IBM_SORTER.jpg" cim="IBM lyukkártya-válogató gép. 80 oszlopos lyukkártyák válogatására szolgáló, sorozatban gyártott berendezés."/>
+			<kep name="Aritma" file="..\hollerith\ARITMA02.jpg" cim="Az 'Aritma', csehszlovák gyártmányú, lyukkártyás adatfeldolgozó gép.  Magyarországon a Volán Elektronika vállalat állította üzembe - 1959-ben - a képen látható a gépparkot. 2x45 oszlopos lyukkártyával mûködött."/>
+			<kep name="Aritma gépek" file="aritma3.jpg" cim="A Volán Elektronika Aritma adatfeldolgozó rendszere."/>
+			<kep name="Volán Elektronika épület" file="VEEPULET01.jpg" cim="A Volán Elektronika elsõ székháza. Ebbe az épületbe költözött - 1967-ben - az ország egyik legmodernebb UNIVAC gépekkel felszerelt számítóközpontja."/>
+			<kep name="Aritma géppark" file="..\hollerith\ARITMA01.jpg" cim="'Aritma' lyukkártyás géppark. A Volán Elektronika elsõ adatfeldolgozó rendszere."/>
+			<kep name="Marxreiter Alajos" file="NAPTMARX.jpg" cim="Marxreiter Alajos, a Mikro Volán Elektronika Rt nyugdíjas vezérigazgatója. Még az Aritma lyukkártyás gépparkon kezdte a szakmát."/>
+			<kep name="Kovács József" file="kovacs.jpg" cim="Kovács József, a Mikro Volán Elektronikának a privatizálás utáni elsõ vezérigazgatója."/>
+			<kep name="Faur Kálmán" file="NAPT2.jpg" cim="Faur Kálmán, a Mikro Volán Elektronika Rt elnök-vezérigazgatója. A cég a régi Volán Elektronika munkájának a folytatója."/>
+			<kep name="Tápay Tamás irodája" file="NAPT3.jpg" cim="Faliszõnyeg Dr. Tápay Tamás, a Volán Elektronika alapítójának a szobájából."/>
+			<kep name="Pompéri Béla" file="NAPT77.jpg" cim="Pompéri Béla, rendszerszervezõ. A magyar számítástechnika egyik nagy öregje. A vegyipar elsõ számítóközpontjának egyik létrehozója."/>
+		</tema>
+		<tema name="Mechanikus és elektromechanikus számológépek.">
+			<eloadas name="Mechanikus automaták" directory="mechanikus">
+				<kep name="Heinz Zemanek" file="UTOLSO.jpg" cim="Heinz Zemanek, osztrák akadémikus, egyetemi tanár. Az elsõ és egyetlen osztrák számítógép, a Mailüftern tervezõje és építõje."/>
+				<kep name="Kempelen Farkas" file="..\kempelen\NAPT7.jpg" cim="Kempelen Farkas (1734-1804) Mária Terézia császárnõ hadmérnöke"/>
+				<kep name="Knaus íróautomatája" file="KNAUS.jpg" cim="Fridrich von Knaus udvari mechanikus a 18. században családjával Bécsben élt és fõleg Mária Terézia császárnõnek dolgozott. Alkotásainak egy része ma is a bécsi Burgban található."/>
+				<kep name="Kakukkos óra" file="KAKUKKOS.jpg" cim="Az ingaórák népi változata. Az elsõ kakukos órákat ügyes falusi mesterek - egyes források szerint -  Németországban, mások szerint Svájcban faragták."/>
+				<kep name="Zenei automata" file="ZENEIAUTOMATA.jpg" cim="A 19. században fejlõdtek ki a különféle zenei automaták. A zenei 'programot' elõször tüskés henger, majd lyukasztott tárcsa, kéásõbb lyukasztott kártya, még késõbb lyukasztott szalag tárolta."/>
+			</eloadas>
+			<eloadas name="Kempelen Farkas" directory="kempelen">
+				<kep name="Kempelen Farkas" file="NAPT7.jpg" cim="Kempelen Farkas (1734-1804) Mária Terézia császárnõ hadmérnöke"/>
+				<kep name="A sakkozó török" file="NAPT10.jpg" cim="A sakkozó török. 1854. július 5-én a philadelphiai panoptikumban pusztító tûzvészben elégett."/>
+				<kep name="Egy lehetséges változat" file="NAPT8.jpg" cim="A sakkozó török. Kempelen Farkas játék-automatája, a titkát még ma sem tudták megfejteni."/>
+				<kep opt="A sakkozó török" file="NAPT10.jpg" cim="A sakkozó török. 1854. július 5-én a philadelphiai panoptikumban pusztító tûzvészben elégett."/>
+				<kep opt="Kempelen Farkas" file="NAPT7.jpg" cim="Kempelen Farkas (1734-1804) Mária Terézia császárnõ hadmérnöke"/>
+				<kep name="A beszélõgép" file="NAPT99.jpg" cim="A beszélõgép. Kempelen Farkas korai kibernetikai alkotása."/>
+				<kep opt="Kempelen Farkas" file="NAPT7.jpg" cim="Kempelen Farkas (1734-1804) Mária Terézia császárnõ hadmérnöke"/>
+			</eloadas>
+			<eloadas name="Jedlik Ányos" directory="jedlik">
+				<kep name="Jedlik Ányos" file="NAPT61.jpg" cim="Jedlik Ányos (1800-1895), a dinamó elv és az öngerjesztés feltalálója"/>
+				<kep name="Dinamó" file="dinamo.jpg" cim="Jedlik Ányos dinamója"/>
+				<kep name="Villámdelej" file="villamdelej.jpg" cim="A villámdelejes forgony."/>
+				<kep opt="Jedlik Ányos" file="NAPT61.jpg" cim="Jedlik Ányos (1800-1895), a dinamó elv és az öngerjesztés feltalálója"/>
+				<kep name="Rezgési készülék" file="INFO01.jpg" cim="Jedlik Ányos rezgési készüléke. Rezgõmozgásokat tudott összeadni."/>
+				<kep name="A rajzológép ábrái" file="INFO07.jpg" cim="Jedlik Ányos gépével készült rajzok. Legalább olyan pontosak voltak, mintha számítógéppel készültek volna."/>
+				<kep opt="Jedlik Ányos" file="NAPT61.jpg" cim="Jedlik Ányos (1800-1895), a dinamó elv és az öngerjesztés feltalálója"/>
+			</eloadas>
+			<eloadas name="Hermann Hollerith" directory="hollerith">
+				<kep name="Az elsõ lyukkártyás gép " file="ELSOLYUKKARTYAS.jpg" cim="Az elsõ Hollerith adatfeldolgozó rendszer a 19. századból. Az elsõ feldolgozó rendszer alapgépei a kézi lyukkártya lyukasztó, a rendezõ és a számláló voltak."/>
+				<kep name="Hollerith" file="HOLLERITH.jpg" cim="Jaquard és Babbage után ismét megtalálta a lyukkártyát, mint adathordozót. A Hollerith lyukkártyás
+rendszert az 1890-es USA népszámlálásnál alkalmazták elõször."/>
+				<kep name="80 oszlopos lyukkártya " file="80ASLYUKKARTYA.jpg" cim="Az elsõ 80 oszlopos Hollerith lyukkártya. Hollerith az 1 dollárossal egyezõ méretû lyukkártyát készített."/>
+				<kep opt="Az elsõ lyukkártyás gép " file="ELSOLYUKKARTYAS.jpg" cim="Az elsõ Hollerith adatfeldolgozó rendszer a 19. századból. Az elsõ feldolgozó rendszer alapgépei a kézi lyukkártya lyukasztó, a rendezõ és a számláló voltak."/>
+				<kep opt="80 oszlopos lyukkártya " file="80ASLYUKKARTYA.jpg" cim="Az elsõ 80 oszlopos Hollerith lyukkártya. Hollerith az 1 dollárossal egyezõ méretû lyukkártyát készített."/>
+				<kep name="IBM szorter " file="IBM_SORTER.jpg" cim="Az IBM lyukkártya-válogató gépe. A Hollerith adatfeldolgozó gépeket az IBM-re átnevezett gyár sorozatban gyártotta."/>
+				<kep opt="Az elsõ lyukkártyás gép " file="ELSOLYUKKARTYAS.jpg" cim="Az elsõ Hollerith adatfeldolgozó rendszer a 19. századból. Az elsõ feldolgozó rendszer alapgépei a kézi lyukkártya lyukasztó, a rendezõ és a számláló voltak."/>
+				<kep name="IBM doppler " file="..\edla\IBM DOPPLER.jpg" cim="IBM doppler. Másoló gép, a lyukkártyák - a sok futtatásban - megsérültek, ilyenkor az új kártyacsomagot másológépekkel állították elõ."/>
+				<kep name="Leibniz számológépe" file="LEIBNIZ SZAMOLOGEP.jpg" cim="A számolás gépesítésére Gottfried Wilhelm Leibniz, a 17. század közepén egy új számológép elemet fejlesztett ki, a lépcsõs fogaskereket, amit a késõbbi számológép konstruktõrök is szívesen alkalmaztak."/>
+				<kep name="Mechanikus számológépek" file="MECHANIKUS_SZG.jpg" cim="Mechanikus számológépek. A Hollerith adatfeldolgozó gépeket megelõzõ, sorozatban gyártott  számolóeszközök."/>
+				<kep name="George Boole" file="BOOLE.jpg" cim="George Boole (1815-1864) nem járt egyetemre, Apjától tanulta a matematikát. A legnagyobb érdeme a 'formális logika' felfedezése volt, amit Róla neveztek el 'Boole algebrának'."/>
+				<kep name="Kozma László " file="..\kozma\NAPT11.jpg" cim="Kozma László (1902-1983). Neves telefonközpont konstruktõr, Európa elsõ elektromechanikus digitális 10-es számrendszerben mûködõ számológépeinek az alkotója."/>
+				<kep name="Kozma László szabadalma" file="..\kozma\NAPT12.jpg" cim="Kozma László belgiumi szabadalma. 10 számológépes szabadalom fûzõdik a nevéhez."/>
+				<kep name="Mark I" file="..\kozma\mark1.jpg" cim="Az elsõ amerikai jelfogós számítógép, Mark I."/>
+			</eloadas>
+			<eloadas name="A lõelemképzõ" directory="juhasz">
+				<kep name="Juhász István " file="NAPT35.jpg" cim="Juhász István (1894-1981). A GAMMA-Juhász lõelemképzõ feltalálója, a GAMMA gyár egyik tulajdonosa."/>
+				<kep name="A lõelemképzõ kinyitva" file="LOELEMKEPZO.jpg" cim="A GAMMA Juhász lõelemképzõ. Nem csak Európában, de a világon is a legjobb volt."/>
+				<kep name="Négy löveget vezérelt" file="NAPT36.jpg" cim="A GAMMA Juhász lõelemképzõ. Négy löveget vezérelt egyszerre."/>
+				<kep name="A ballisztikus test" file="NAPT37.jpg" cim="A lõelemképzõ memóriája, a ballisztikus test. A formáját tapasztalati úton, próbalövésekkel alakították ki."/>
+				<kep name="A GAMMA-Juhász lõelemképzõ" file="NAPT38.jpg" cim="A GAMMA Juhász lõelemképzõ. Elektromechanikus analóg számítógépnek volt tekinthetõ. Nem csak Európában, de a világon is a legjobb volt."/>
+				<kep name="A lõelemképzõ felülnézetben" file="NAPT39.jpg" cim="A GAMMA Juhász lõelemképzõ. A szabadalmát a svédek is megvásárolták, és gyártották."/>
+				<kep opt="A lõelemképzõ kinyitva" file="LOELEMKEPZO.jpg" cim="A GAMMA Juhász lõelemképzõ. Nem csak Európában, de a világon is a legjobb volt."/>
+				<kep opt="Juhász István " file="NAPT35.jpg" cim="Juhász István (1894-1981). A GAMMA-Juhász lõelemképzõ feltalálója, a GAMMA gyár egyik tulajdonosa."/>
+			</eloadas>
+			<eloadas name="Nemes Tihamér" directory="nemes">
+				<kep name="Nemes Tihamér " file="NAPT15.jpg" cim="Nemes Tihamér (1895-1960) postamérnök. Feltaláló, kibernetikus, a magyar televíziózás úttörõje."/>
+				<kep name="Genetikus logikai gép" file="NAPT17.jpg" cim="A genetikus logikai gép. Jelfogós készülék, fordított lyukkártyával mûködött."/>
+				<kep name="A sakkfeladványt megoldó gép" file="NAPT19.jpg" cim="A sakkfeladványt megoldó gép blokksémája. Kétlépéses feladványokat tudott volna megoldani, ha elkészül."/>
+				<kep name="Az M-3" file="..\m3\NAPT34.jpg" cim="Az M-3. Dömölki Bálint és Kovács Gyõzõ az aritmetikai egység vezérlõpultja elõtt "/>
+				<kep name="A szegedi logikai gép" file="..\kalmar\KALMAR 01.jpg" cim="A szegedi logikai gép. Kalmár László alkotása "/>
+				<kep name="Az M-3 gépterem" file="..\m3\INFO04.jpg" cim="Az M-3. A gépterem. A számítógép fejlesztõi."/>
+				<kep name="A zseb logikai gép" file="NAPT16.jpg" cim="A zseb logikai gép. A mérnökök - csak logikai feladatok megoldására - úgy használták volna, mint a logarlécet számolásra."/>
+				<kep name="Jevons logikai piano" file="NAPT18.jpg" cim="A Jevons-féle logikai piano. Az eredeti logikai gép másolata 'madzag a húzója'"/>
+				<kep opt="A sakkfeladványt megoldó gép" file="NAPT19.jpg" cim="A sakkfeladványt megoldó gép blokksémája. Kétlépéses feladványokat tudott volna megoldani, ha elkészül."/>
+				<kep name="BESZM" file="BESZM.jpg" cim="A legnagyobb korai szovjet számítógép. Az elsõ példány 1953-ban Lebedjev akadémikus vezetésével épült, 8-10.000 mûveletet végzett másodpercenként."/>
+				<kep name="Big Blue" file="BIGBLUE.jpg" cim="Az IBM kizárólag sakkozásra épített szuper-számítógépe. Az IBM ezen a példán próbálta ki a sok mikroprocesszorral épült szuper-számítógép vezérlését."/>
+				<kep opt="A sakkfeladványt megoldó gép" file="NAPT19.jpg" cim="A sakkfeladványt megoldó gép blokksémája. Kétlépéses feladványokat tudott volna megoldani, ha elkészül."/>
+				<kep opt="Big Blue" file="BIGBLUE.jpg" cim="Az IBM kizárólag sakkozásra épített szuper-számítógépe. Az IBM ezen a példán próbálta ki a sok mikroprocesszorral épült szuper-számítógép vezérlését."/>
+				<kep name="Vlagyimir Kramnyik" file="KRAMNYIK.jpg" cim="A sakkozás egyik mai - 2002-es - világbajnoka. Ma már nem csak egy sakk-világszövetség létezik, hanem több, mindegyik hirdet világbajnokot."/>
+				<kep opt="A sakkfeladványt megoldó gép" file="NAPT19.jpg" cim="A sakkfeladványt megoldó gép blokksémája. Kétlépéses feladványokat tudott volna megoldani, ha elkészül."/>
+				<kep opt="Nemes Tihamér " file="NAPT15.jpg" cim="Nemes Tihamér (1895-1960) postamérnök. Feltaláló, kibernetikus, a magyar televíziózás úttörõje."/>
+			</eloadas>
+			<eloadas name="Kozma László" directory="kozma">
+				<kep name="Kozma László " file="NAPT11.jpg" cim="Kozma László (1902-1983), akadémikus, egyetemi tanár Számos elektromechanikus számoló berendezés és a MESz-1 jelfogós számítógép alkotója "/>
+				<kep name="Kozma László szabadalma" file="NAPT12.jpg" cim="Kozma László osztott munkahelyes szabadalma. Elsõként alkotott és szabadalmaztatott Amszterdamban olyan adatfeldolgozó rendszert, amelyben a központi számológépet távgépírókról, telexhálózaton lehetett elérni."/>
+				<kep name="Mark I" file="mark1.jpg" cim="Az elsõ amerikai jelfogós számítógép, Mark I."/>
+				<kep opt="Kozma László " file="NAPT11.jpg" cim="Kozma László (1902-1983), akadémikus, egyetemi tanár Számos elektromechanikus számoló berendezés és a MESz-1 jelfogós számítógép alkotója "/>
+				<kep name="Kozma László tanít" file="NAPT13.jpg" cim="Kozma László a MESz-1 elõtt tanít. A számítógépet elsõsorban oktatási célra építette."/>
+				<kep name="MESz-1" file="..\kalmar\MESZ 1-02.jpg" cim="MESz-1 A Budapesti Mûszaki Egyetem jelfogós számítógépe. 1958."/>
+				<kep name="MESz-1 blokkséma" file="INFO02.jpg" cim="MESz-1. A számítógép blokksémája. "/>
+				<kep name="MESz-1 programolvasó" file="MESZ-1 PROGRAMADO.jpg" cim="MESz 1. A lyukasztott programlapot leolvasó készülék."/>
+				<kep name="MESz-1 vezérlõasztal" file="NAPT14.jpg" cim="MESz-1. A vezérlõasztal. Az adatbevitel billentyûzetrõl, a programbevitel lyukkártyáról, az adatkiírás átalakított Mercedes írógép segítségével történt."/>
+				<kep name="Kozma László és Frajka Béla" file="..\m3\INFO05.jpg" cim="MESz 1. Kozma László és Frajka Béla, a legközelebbi munkatársa"/>
+			</eloadas>
+			<eloadas name="A szegedi Kibernetikai Laboratórium" directory="kalmar">
+				<kep name="Kovács Gyõzõ" file="..\bevezeto\NAPT60.jpg" cim="Kovács Gyõzõ. Laci bácsi gyakorta meghívott a konferenciáira."/>
+				<kep name="Kozma László" file="..\kozma\NAPT11.jpg" cim="Kozma László (1902-1983). Az elsõ - és egyetlen - hazai jelfogós számítógép, a MESz 1 alkotója."/>
+				<kep name="MESz 1" file="MESZ 1-02.jpg" cim="A MESz 1. Az elsõ hazai jelfogós számítógép"/>
+				<kep name="Kalmár László " file="NAPT25.jpg" cim="Kalmár László (1905-0976). Akadémikus, a JATE profeszora."/>
+				<kep name="Kalmár-algebravizsgáló gép" file="NAPT29.jpg" cim="Véges algebrák vizsgálatára szolgáló gép. Kalmár László gondolatai nyomán Pávó Imre és munkatársai tervezték és építették. 1965."/>
+				<kep name="Kalmár második gépe" file="NAPT29A.jpg" cim="Véges algebrák vizsgálatára szolgáló gép. Kalmár László gondolatai nyomán Pávó Imre és munkatársai tervezték és építették. 1965."/>
+				<kep name="Az M-3 gépterem" file="..\m3\INFO04.jpg" cim="Az M-3. A gépterem. A számítógép fejlesztõi."/>
+				<kep name="Tarján Rezsõ" file="..\m3\NAPT30.jpg" cim="Tarján Rezsõ beszélte rá Kalmár Lászlót a logikai gép megépítésére."/>
+				<kep name="Muszka Dániel" file="NAPT27.jpg" cim="Muszka Dániel, a szegedi logikai gép építõje"/>
+				<kep name="A logikai gép" file="KALMAR 02.jpg" cim="A szegedi logikai gép. Kalmár László tervei alapján Muszka Dániel építette."/>
+				<kep name="A szegedi katica" file="NAPT28.jpg" cim="A szegedi mûkaticabogár. A Magyarországon épült egyetlen mûállat, Muszka Dániel alkotása "/>
+				<kep name="Kalmár László tanít" file="..\m3\INFO04.jpg" cim="Az M-3. A gépterem. A számítógép fejlesztõi."/>
+				<kep opt="Muszka Dániel" file="NAPT27.jpg" cim="Muszka Dániel, a szegedi logikai gép építõje"/>
+				<kep opt="Kalmár László " file="NAPT25.jpg" cim="Kalmár László (1905-0976). Akadémikus, a JATE profeszora."/>
+				<kep name="Három érintkezõs csatlakozó" file="NAPT26.jpg" cim="A szegedi logikai gép programozásához használt három érintkezõs csatlakozó"/>
+				<kep name="A Kalmár-logikai gép" file="KALMAR 01.jpg" cim="A szegedi logikai gép. Három-érintkezõs csatlakozókkal lehetett programozni."/>
+				<kep name="A szegedi logikai gép" file="KALMAR.jpg" cim="A szegedi logikai gép. Kalmár László tervezte és Muszka Dániel építette meg."/>
+				<kep opt="A Kalmár-logikai gép" file="KALMAR 01.jpg" cim="A szegedi logikai gép. Három-érintkezõs csatlakozókkal lehetett programozni."/>
+				<kep opt="Kalmár László tanít" file="..\m3\INFO04.jpg" cim="Az M-3. A gépterem. A számítógép fejlesztõi."/>
+				<kep opt="Muszka Dániel" file="NAPT27.jpg" cim="Muszka Dániel, a szegedi logikai gép építõje"/>
+				<kep opt="A logikai gép" file="KALMAR 02.jpg" cim="A szegedi logikai gép. Kalmár László tervei alapján Muszka Dániel építette."/>
+				<kep opt="A szegedi katica" file="NAPT28.jpg" cim="A szegedi mûkaticabogár. A Magyarországon épült egyetlen mûállat, Muszka Dániel alkotása "/>
+				<kep name="A mágnesdob" file="..\edla\MAGNESDOB.jpg" cim="A mágnesdob. Az M-3 memóriája, elõtte Kovács Gyõzõ."/>
+				<kep opt="Muszka Dániel" file="NAPT27.jpg" cim="Muszka Dániel, a szegedi logikai gép építõje"/>
+				<kep opt="Kalmár László " file="NAPT25.jpg" cim="Kalmár László (1905-0976). Akadémikus, a JATE profeszora."/>
+				<kep opt="Kovács Gyõzõ" file="..\bevezeto\NAPT60.jpg" cim="Kovács Gyõzõ. Laci bácsi gyakorta meghívott a konferenciáira."/>
+				<kep name="Az M-3" file="..\m3\NAPT34.jpg" cim="Az M-3 számítógép volt az elsõ vidéki, szegedi  számítóközpont központi gépe. Dömölki Bálint és Kovács Gyõzõ dolgozik a gépen."/>
+			</eloadas>
+		</tema>
+		<tema name="Elektronikus számolóberendezések">
+			<eloadas name="Neumann János" directory="neumann">
+				<kep name="Neumann János" file="NAPT20.jpg" cim="Neumann János (1903-1957) matematikus. A tárolt program kitalálója, a numerikus meteorológia megalkotója, a kvantumfizika matematikai alapjainak a megteremtõje, a közgazdaságban a játékelmélet kidolgozója."/>
+				<kep name="Neumann János sírja" file="NAPT23.jpg" cim="Neumann János sírja. A Princeton-i temetõben van - az Édesanyjával együtt - eltemetve."/>
+				<kep name="A princetoni temetõ" file="princeton.jpg" cim="A princetoni temetõben található Neumann János sírja."/>
+				<kep opt="Neumann János sírja" file="NAPT23.jpg" cim="Neumann János sírja. A Princeton-i temetõben van - az Édesanyjával együtt - eltemetve."/>
+				<kep name="A Neumann család" file="NAPT22.jpg" cim="Neumann János és felsége Dán Klára. Középen a feleségének a kutyája: Inverz"/>
+				<kep name="H. Goldstine dedikál" file="NAPT78.jpg" cim="Hermann Goldstine és Kovács Gyõzõ. Kiadtuk H. Goldstine könyvét: 'A számítógép Pascaltól Neumannig'. Hermann Goldstine Kecskeméten dedikál."/>
+				<kep name="ENIAC" file="..\m3\ENIAC.jpg" cim="A Pennsylvaniai Egyetemen épült elektronikus számolóberendezés"/>
+				<kep name="ABC" file="abc.jpg" cim="John Vincent Atanasoff elektronikus, programvezérelt, digitális számítógépe, az ABC, amelyik idõben megelõzte az ENIAC-ot."/>
+				<kep name="H. Goldstine" file="goldstein.jpg" cim="Hermann Goldstine és második felesége."/>
+				<kep name="Az ifjú Neumann" file="NEUMANN PORTRE.jpg" cim="Neumann János (1903-1957) érettségi képe."/>
+				<kep name="Goldstine könyv" file="gkonyv.jpg" cim="Hermann Goldstine könyvének magyar kiadása: A számítógép Pascaltól Neumannig."/>
+				<kep name="Neumann Miklós" file="NEUMFI.jpg" cim="Neumann Miklós (Nicolas Voneumann) és felsége. Neumann János legifjabb fivére, ügyvéd, Philadelphiában él."/>
+				<kep opt="H. Goldstine dedikál" file="NAPT78.jpg" cim="Hermann Goldstine és Kovács Gyõzõ. Kiadtuk H. Goldstine könyvét: 'A számítógép Pascaltól Neumannig'. Hermann Goldstine Kecskeméten dedikál."/>
+				<kep opt="Goldstine könyv" file="gkonyv.jpg" cim="Hermann Goldstine könyvének magyar kiadása: A számítógép Pascaltól Neumannig."/>
+				<kep name="Neumann és az IAS gép" file="NEUMANN_GEP.jpg" cim="Az elsõ párhuzamos mûködésû számítógép, Neumann János és Hermann Goldstine tervezte és építette."/>
+				<kep name="Az ifjú Neumann Miklós" file="nmiklos.jpg" cim="Neumann Miklós (Nicolas Voneumann) gimnazista képe."/>
+				<kep name="Fasori Gimnázium" file="fgimn.jpg" cim="Az evangélikus gimnázium a Fasorban."/>
+				<kep name="Neumann elsõ családja" file="ncsalad.jpg" cim="Neumann János, elsõ felesége Kövesi Marietta, és lánya, Marina."/>
+				<kep name="Marina a gimnáziumban" file="marinagimn.jpg" cim="Marina von Neumann Whitmann látogatása a Fasori Gimnáziumban."/>
+				<kep name="Neumann emléktábla" file="emlektabla.jpg" cim="Neumann János emléktáblája a szülõházán."/>
+				<kep opt="Neumann János" file="NAPT20.jpg" cim="Neumann János (1903-1957) matematikus. A tárolt program kitalálója, a numerikus meteorológia megalkotója, a kvantumfizika matematikai alapjainak a megteremtõje, a közgazdaságban a játékelmélet kidolgozója."/>
+				<kep opt="Neumann Miklós" file="NEUMFI.jpg" cim="Neumann Miklós (Nicolas Voneumann) és felsége. Neumann János legifjabb fivére, ügyvéd, Philadelphiában él."/>
+				<kep name="Medal of Freedom" file="NAPT24.jpg" cim="Neumann János 1956-ban Eisenhower elnöktõl átveszi a 'Medal of Freedom' kitûntetést. Amerikában ez a legmagasabb színtû civileknek adható elnöki elismerés."/>
+				<kep name="IAS GÉP" file="ias_kgy.jpg" cim="Látogatásom a Smithsonian Múzeumban."/>
+				<kep name="Az IAS gép" file="NAPT24A.jpg" cim="Az IAS (Institut for Advanced Study) gép. Neumann János tervezte, az elsõ párhuzamos, tárolt programú számítógép."/>
+				<kep name="Neumann Miksa" file="nmiksa.jpg" cim="Margittai Neumann Miksa, a bankár."/>
+				<kep name="Kann Margit" file="kmargit.jpg" cim="Kann Margit, a három Neumann gyermek édesanyja."/>
+				<kep name="A Neumann címer" file="cimer.jpg" cim="A Neumann család címere."/>
+				<kep name="Neumann Mihály" file="nmihaly.jpg" cim="A középsõ Neumann gyermek, Mihály."/>
+				<kep name="Nyaraló" file="nyaralo.jpg" cim="A Neumann család nyaralója az Eötvös út 15 sz. telken."/>
+			</eloadas>
+			<eloadas name="Az MTA KKCs és az M3" directory="m3">
+				<kep name="Tarján Rezsõ " file="NAPT30.jpg" cim="Tarján Rezsõ (1908-1978), matematikus és fizikus  Az MTA KKCs egyik alapítója, rövid ideig a tudományos igazgatóhelyettese"/>
+				<kep name="ENIAC" file="ENIAC.jpg" cim="A Pennsylvaniai Egyetemen épült elektronikus számolóberendezés"/>
+				<kep name="Az MTA KKCs székhelye" file="NADOR 7.jpg" cim="Az V.  Nádor utca 7. Az MTA KKCs székhelye."/>
+				<kep opt="Tarján Rezsõ " file="NAPT30.jpg" cim="Tarján Rezsõ (1908-1978), matematikus és fizikus  Az MTA KKCs egyik alapítója, rövid ideig a tudományos igazgatóhelyettese"/>
+				<kep name="M-3 logikai rajz" file="M3_KAPCSRAJZ.jpg" cim="Az M3 egyik logikai rajza. Ilyen rajzok alapján épült meg a számítógép."/>
+				<kep opt="ENIAC" file="ENIAC.jpg" cim="A Pennsylvaniai Egyetemen épült elektronikus számolóberendezés"/>
+				<kep name="IAS" file="IAS.jpg" cim="Neumann János párhuzamos mûködésû számítógépe"/>
+				<kep name="EDSAC" file="edsac.jpg" cim="Maurice Wilkes tervei alapján a Cambridge-i Egyetemen épült elsõ tárolt programú számítógép."/>
+				<kep name="Az M-3" file="NAPT34.jpg" cim="Az M-3. Dömölki Bálint és Kovács Gyõzõ az aritmetikai egység vezérlõpultja elõtt "/>
+				<kep name="Az M-3 gépterem" file="INFO04.jpg" cim="Az M-3. A gépterem. A számítógép fejlesztõi."/>
+				<kep name="Az M-3 memóriája" file="NAPT31.jpg" cim="Az M-3 memóriája. A mágnesdob, eredetileg 1024 darab 31 bites szó volt a kapacitása, amit sikerült 1600 szóra bõvíteni."/>
+				<kep name="A mágnesdob" file="..\edla\MAGNESDOB.jpg" cim="A mágnesdob. Az M-3 memóriája, elõtte Kovács Gyõzõ."/>
+				<kep name="Szelezsán János" file="NAPT67.jpg" cim="Szelezsán János, matematikus. Az elsõ programot írta a számítógépre. "/>
+				<kep name="M-3 alegységek" file="INFO05.jpg" cim="Az M-3. Az számítógép alegységekbõl épült fel."/>
+				<kep name="M-3 mágnesdob" file="M3 KEPE.jpg" cim="Az M-3. A mágnesdob, a második román számítógépnek, a MECIPT-1-nek is ez volt a memóriája."/>
+				<kep name="Esti Hírlap" file="NAPT32.jpg" cim="Az M-3. Az Esti Hírlap 1959. január 21-i száma, ami elõször közölte a hírt: elkészült az ország elsõ elektronikus számítógépe."/>
+			</eloadas>
+			<eloadas name="EDLA" directory="edla">
+				<kep name="Kovács Gyõzõ" file="..\bevezeto\NAPT60.jpg" cim="A könyv és a CD szerzõje: Kovács Gyõzõ villamosmérnök. Az M-3 egyik építõje"/>
+				<kep name="Az M-3 gépterem" file="..\m3\INFO04.jpg" cim="Az M-3. A gépterem. A számítógép építõi."/>
+				<kep name="A mágnesdob" file="MAGNESDOB.jpg" cim="A mágnesdob. Az M-3 memóriája, elõtte Kovács Gyõzõ."/>
+				<kep name="IBM szorter " file="..\hollerith\IBM_SORTER.jpg" cim="Az IBM lyukkártya-válogató gépe. A Hollerith adatfeldolgozó gépeket az IBM-re átnevezett gyár sorozatban gyártotta."/>
+				<kep opt="Az M-3 gépterem" file="..\m3\INFO04.jpg" cim="Az M-3. A gépterem. A számítógép építõi."/>
+				<kep name="IBM doppler " file="IBM DOPPLER.jpg" cim="IBM doppler. Másoló gép, a lyukkártyák - a sok futtatásban - megsérültek, ilyenkor az új kártyacsomagot másológépekkel állították elõ."/>
+				<kep name="PREPAMAT adatelõkészítõ" file="PREPAMAT 02.jpg" cim="PREPAMAT. A VILATI lyukszalagos adatelõkészítõ berendezése"/>
+				<kep name="PREPAMAT" file="PREPAMAT.jpg" cim="PREPAMAT. A VILATI lyukszalagos adatelõkészítõ berendezése."/>
+				<kep name="TRT adatelõkészítõ " file="..\eszr\TRT ADATELOKESZITO.jpg" cim="A Telefongyár adatelõkészítõ berendezése. Az EszR rendszerhez gyártott berendezés."/>
+				<kep opt="PREPAMAT" file="PREPAMAT.jpg" cim="PREPAMAT. A VILATI lyukszalagos adatelõkészítõ berendezése."/>
+				<kep name="Floppymat" file="FLOPPYMAT.jpg" cim="FLOPPYMAT. A VILATI mágneslemez memóriával mûködõ adatgyûjtõ berendezése."/>
+			</eloadas>
+			<eloadas name="Az Elektronikus Mérõkészülékek Gyára" directory="emg">
+				<kep name="Klatsmányi Árpád" file="NAPT45.jpg" cim="Klatsmányi Árpád, az EMG fõkonstruktõre. Az EMG 830-as számítógép és még sok más gyártmány alkotója. "/>
+				<kep name="Muszka Dániel" file="NAPT27.jpg" cim="Muszka Dániel, matematikus. A szegedi logikai gép építõje és a szegedi katicabogár alkotója."/>
+				<kep name="HUNOR" file="NAPT47.jpg" cim="HUNOR. Az EMG négymûveletes, elektronikus, asztali számológépe."/>
+				<kep name="HUNOR 131" file="HUNOR 131.jpg" cim="HUNOR 131. Az EMG modernizált asztali, négy alapmûveletes elektronikus számológépe."/>
+				<kep name="EMG 830" file="..\eszr\NAPT49.jpg" cim="Az EMG 830-as. Az ország elsõ tranzisztoros, általános célú számítógépe."/>
+				<kep name="MESz-1" file="..\kalmar\MESZ 1-02.jpg" cim="MESz-1 A Budapesti Mûszaki Egyetem jelfogós számítógépe. 1958."/>
+				<kep opt="EMG 830 számítógép" file="INFO08.jpg" cim="EMG 830. Kis sorozatban gyártott univerzális, tranzisztoros számítógép."/>
+				<kep opt="Klatsmányi Árpád" file="NAPT45.jpg" cim="Klatsmányi Árpád, az EMG fõkonstruktõre. Az EMG 830-as számítógép és még sok más gyártmány alkotója. "/>
+				<kep opt="EMG 830 számítógép" file="INFO08.jpg" cim="EMG 830. Kis sorozatban gyártott univerzális, tranzisztoros számítógép."/>
+				<kep name="CNC szerszámgépvezérlõ" file="CNC.jpg" cim="CNC szerszámgépvezérlõ. Az EMG alaptevékenysége az ipari elektronikai vezérlõ-rendszerek gyártása volt."/>
+				<kep name="SzKI R 10" file="..\eszr\SZKI R10.jpg" cim="A francia CII MITRA 15 honosításából az SzKI-ban kifejlesztett EszR R 10-es miniszámítógép. Az SzKI és a Videoton Fejlesztõ Intézet (VIFI) is kidolgozta a maga változatát. "/>
+				<kep name="Videoton R10A " file="..\eszr\R10A.jpg" cim="Videoton. Az R10 gép egyik változata, az R 10A."/>
+				<kep opt="EMG 830 számítógép" file="INFO08.jpg" cim="EMG 830. Kis sorozatban gyártott univerzális, tranzisztoros számítógép."/>
+				<kep name="EMG 666" file="EMG 666.jpg" cim="EMG 666. A gyár mikroszámítógépe."/>
+			</eloadas>
+			<eloadas name="A Központi Fizikai Kutatóintézet" directory="kfki">
+				<kep name="Lukács József " file="LUKACS.jpg" cim="Lukács József . Az elsõ TPA számítógép egyik alkotója. A KFKI számítógépgyár krónikása."/>
+				<kep name="TPA 1001" file="TPA 1001.jpg" cim="A TPA 1001. Általános célú tranzisztoros számítógép, a DEC PDP 8 klónja."/>
+				<kep name="Az M-3 mágnesdob" file="..\m3\M3 KEPE.jpg" cim="Az M-3 mágnesdob-memóriája. Tárgyalások folytak a KFKI-val, hogy ez lesz majd a tárolt programú analizátor memóriája. Végül a ferritgyûrûs tárolót választották."/>
+				<kep name="Bogdány János" file="BOGDANY JANOS.jpg" cim="Bogdány János. A TPA számítógépek egyik konstruktõre, fõleg a TPA 70 tervezése és építése kapcsolódik a nevéhez."/>
+				<kep name="Szõnyi László" file="SZONYI LASZLO.jpg" cim="Szõnyi László. A TPA számítógépek egyik konstruktõre."/>
+				<kep name="TPA 1001 egy kiállításon" file="NAPT54.jpg" cim="TPA 1001. Belülrõl a DEC PDP 8 számítógépének a másolata volt, kívülrõl inkább az ICL számítógépekre hasonlított."/>
+				<kep name="TPA 1001 vezérlõ asztal" file="KFKI TPA1001.jpg" cim="KFKI TPA 1001. A vezérlõ asztal."/>
+				<kep name="TPA 1001 a múzeumban" file="TPA 1001.jpg" cim="A TPA 1001. A KFKI számítógépgyár elsõ számítógépe."/>
+				<kep name="TPA 1001 Nyíregyházán" file="INFO06.jpg" cim="TPA 1001. Nem volt szabad se leírni, se mondani, hogy számítógép, ezért hívták tárolt programú analizátornak."/>
+				<kep name="TPA i" file="TPAI.jpg" cim="KFKI TPA i integrált áramkörökkel épült számítógép. "/>
+				<kep name="TPA 70" file="..\sztaki\TPA 70.jpg" cim="KFKI TPA 70. Az egyetlen, teljes mértékben a saját elgondolásaik alapján épült KFKI számítógép."/>
+				<kep name="Bogdány János a konferencián" file="NAPT50.jpg" cim="Bogdány János, a TPA 70 konstruktõre"/>
+				<kep name="KFKI TPA 70" file="NAPT522.jpg" cim="KFKI TPA 70. 16 bites számítógép volt, SSI áramkörökkel épült, 12 KFKI hardver szabadalom védte."/>
+				<kep name="GD 70" file="PUC8.jpg" cim="A SzTAKI. A GD 70 az elsõ Magyarországon fejlesztett grafikus display. A meghajtást egy TPA 70 számítógép végezte."/>
+				<kep name="KFKI TPA 11-01" file="TPA11-01.jpg" cim="KFKI TPA 11-01. DEC PDP 1101 klón."/>
+				<kep name="KFKI TPA elemek" file="TPA_ALKATRESZEK.jpg" cim="KFKI TPA elemek. Különbözõ TPA gépek kártyái."/>
+				<kep name="TPA 11xx" file="NAPT52.jpg" cim="A TPA 11xx, a DEC PDP 11xx klónja."/>
+				<kep name="Csodák Palotája" file="TPA_11.jpg" cim="A TPA gépek kamarakiállítása a Csodák Palotájában."/>
+				<kep name="KENNEDY" file="KENNEDY.jpg" cim="KENNEDY. A DEC és a KFKI rendszerének az egyik egysége."/>
+			</eloadas>
+			<eloadas name="Havas Miklós és a számítógépes zeneszerzés" directory="havas">
+				<kep name="Havass Miklós" file="havas.jpg" cim="Havass Miklós, az elsõ zeneszerzõ program készítõje, a SZÁMALK elnöke."/>
+				<kep name="Az M-3 gépterem" file="..\m3\INFO04.jpg" cim="Az M-3. A gépterem. A számítógép fejlesztõi."/>
+				<kep opt="Havass Miklós" file="havas.jpg" cim="Havass Miklós, az elsõ zeneszerzõ program készítõje, a SZÁMALK elnöke."/>
+				<kep name="Kovács Gyõzõ" file="..\bevezeto\NAPT60.jpg" cim="A könyv és a CD szerzõje: Kovács Gyõzõ villamosmérnök. Az M-3 egyik építõje"/>
+				<kep opt="Havass Miklós" file="havas.jpg" cim="Havass Miklós, az elsõ zeneszerzõ program készítõje, a SZÁMALK elnöke."/>
+			</eloadas>
+			<eloadas name="A Lukács fivérek" directory="lukacs">
+				<kep name="A Lukács fivérek" file="LUKACS02.jpg" cim="A Lukács fivérek, József és Endre. Az elsõ - az amatõrök által - nagy számban épített mikroszámítógép alkotói."/>
+				<kep name="HOMELAB" file="HOMELAB.jpg" cim="A HOMELAB amatõr mikroszámítógép. A Lukács fivérek alkotása.  "/>
+				<kep name="Lukács Endre" file="LUKACS ENDRE.jpg" cim="Lukács Endre, a szoftver-tervezõ."/>
+				<kep name="Lukács József " file="LUKACS JOZSEF.jpg" cim="Lukács József, a hardver konstruktõr."/>
+				<kep name="Homelab és részei " file="HOMELAB2.jpg" cim="A Homelab számítógép elemei. Nagyon sok amatõr ezen a gépen tanulta meg a mesterséget."/>
+				<kep name="Lukács József és a Homelab" file="LUKACS 01.jpg" cim="Lukács József, a menedzser és hardverkonstruktõr."/>
+			</eloadas>
+			<eloadas name="A Rosytext" directory="rosytext">
+				<kep name="Rosytext szövegszerkesztõ" file="ROSYTEXT 01.jpg" cim="A Rosytext. A Rolitron szövegszerkesztõ mikroszámítógépe."/>
+				<kep name="Rosytext" file="ROSYTEXT 02.jpg" cim="A Rosytext. Még a PC-k megjelenése elõtt jelent meg ez a gép az irodákban, a rendkívül felhasználóbarát gépet a titkárnõk is elfogadták."/>
+			</eloadas>
+			<eloadas name="Mikroszámítógépek" directory="mikroszamito">
+				<kep name="Az MM 1989. 1. száma" file="NAPTBOR1.jpg" cim="A Mikorszámítógép Magazin 1989. évi 1. száma. 30 éves volt az ország elsõ elektronikus számítógépe, az M-3. Egy grafikusmûvész álma."/>
+				<kep name="Mikroszámítógépes találkozó" file="NAPT82.jpg" cim="A Mikroszámítógép Magazin rendezte meg az elsõ számítógépes szakkiállításokat - a Mikroszámítógép Találkozókat Magyarországon."/>
+				<kep name="Kiss Ilona" file="NAPT71.jpg" cim="Kiss Ilona, a Mikroszámítógép Magazin egyik elsõ grafikusa."/>
+				<kep name="Mikroszámítógépek sakkvilágbajnoksága" file="NAPT83.jpg" cim="A Magyar Sakkszövetség, az NJSzT, és a Miroszámítógép Magazin rendezte a 3. Mikroszámítógépes Sakkvilágbajnokságot Budapesten."/>
+			</eloadas>
+			<eloadas name="Az MTA SZTAKI" directory="sztaki">
+				<kep name="Vámos Tibor" file="NAPT64.jpg" cim="Vámos Tibor, a SzTAKI elnöke, nyugalmazott igazgatója. A vezetése alatt változott az AKI SzTAKI-vá, és vált az ország egyik legerõsebb informatikai intézetévé."/>
+				<kep name="TPA 70" file="TPA 70.jpg" cim="A KFKI önállóan tervezett általános célú miniszámítógépe. Szívesen alkalmazták intelligens vezérlõberendezésként."/>
+				<kep name="GD 70" file="..\kfki\PUC8.jpg" cim="A SzTAKI. A GD 70 az elsõ Magyarországon fejlesztett grafikus display. A meghajtást egy TPA 70 számítógép végezte."/>
+				<kep name="GD 71" file="GD71.jpg" cim="GD 71. A SzTAKI-ban továbbfejlesztett grafikus display."/>
+				<kep name="A GD 70 a moszkvai kiállításon" file="GD70.jpg" cim="A GD 70 a moszkvai ESZR kiállításon."/>
+			</eloadas>
+			<eloadas name="Egységes Számítógép Rendszer (ESZR)" directory="eszr">
+				<kep name="M-3, Esti Hírlap" file="..\m3\NAPT32.jpg" cim="Az M-3. Az Esti Hírlap közli a hírt: elkészült az ország elsõ elektronikus számítógépe."/>
+				<kep name="EMG 830" file="NAPT49.jpg" cim="Az EMG 830. Az ország elsõ tranzisztoros számítógépe, Klatsmányi Arpád alkotása."/>
+				<kep name="HUNNOR 131" file="..\emg\HUNOR 131.jpg" cim="A HUNNOR 131. Elektronikus, négymûveletes asztali számológép, Klatsmányi Árpád alkotása."/>
+				<kep opt="EMG 830" file="NAPT49.jpg" cim="Az EMG 830. Az ország elsõ tranzisztoros számítógépe, Klatsmányi Arpád alkotása."/>
+				<kep name="TPA 1001" file="..\kfki\TPA 1001.jpg" cim="A TPA 1001, a KFKI elsõ tranzisztoros számítógépe. DEC PDP 8 klón volt."/>
+				<kep name="Telefongyár" file="TRT ADATELOKESZITO.jpg" cim="A Telefongyár. A gyár TRT emblémával adatelõkészítõ berendezéseket, terminálokat és telekommunikációs eszközöket gyártott."/>
+				<kep name="PREPAMAT " file="..\edla\PREPAMAT.jpg" cim="PREPAMAT. A VILATI lyukszalagos adatelõkészítõ berendezése."/>
+				<kep name="FLOPPYMAT " file="..\edla\FLOPPYMAT.jpg" cim="A FLOPPYMAT. A VILATI-nak az adatokat floppy-n tároló adatelõkészítõ berendezése."/>
+				<kep name="Mágnesdob" file="..\m3\M3 KEPE.jpg" cim="Az M-3 mágnesdob-memóriája"/>
+				<kep name="Faragó Sándor" file="FARAGO SANDOR.jpg" cim="Faragó Sándor, a SzÁMOK alapítója. A SzÁMOK volt az elsõ informatikát oktató hazai intézet. CDC oktatási licencet vásároltak."/>
+				<kep name="SzÁMOK székház" file="SZAMOK.jpg" cim="A SzÁMOK székháza a Szakasits Árpád úton. A számítástechnika minden ágában (hardver, szoftver, szervezõk) képeztek ki embereket."/>
+				<kep name="Náray Zsolt" file="NARAY ZSOLT.jpg" cim="Náray Zsolt, az SzKI alapító fõigazgatója. A KFKI tudományos igazgatóhelyetteseként, mint az EszR fõkonstruktõre indította el - 1968-ban - az SzKI-t."/>
+				<kep name="ESZR kiállítás" file="GD70.jpg" cim="Az elsõ EszR kiállítás Moszkvában. A magyar kiállítók."/>
+				<kep name="TPA 1101" file="TPA 1101.jpg" cim="A Központi Fizikai Kutató Intézet. A TPA 1101, egy DEC PDP 1101 klón. Ezeket a gépeket gyártották a szocialista országokban az MSzR (Mini EszR) program keretében."/>
+				<kep name="Videoton R10A " file="R10A.jpg" cim="Videoton. Az R10 gép egyik változata, az R 10A."/>
+				<kep name="SzKI R 10" file="SZKI R10.jpg" cim="A francia CII MITRA 15 honosításából az SzKI-ban kifejlesztett EszR R 10-es miniszámítógép. Az SzKI és a Videoton Fejlesztõ Intézet (VIFI) is kidolgozta a maga változatát. "/>
+				<kep name="Náray Zsolt fõkonstruktõr" file="NAPT56.jpg" cim="Náray Zsolt, az SzKI alapító fõigazgatója "/>
+				<kep opt="SzKI R 10" file="SZKI R10.jpg" cim="A francia CII MITRA 15 honosításából az SzKI-ban kifejlesztett EszR R 10-es miniszámítógép. Az SzKI és a Videoton Fejlesztõ Intézet (VIFI) is kidolgozta a maga változatát. "/>
+				<kep name="SzKI R10 a laboratóriumban" file="R10.jpg" cim="Az SzKI R10-es számítógépe. Sohasem gyártották."/>
+				<kep name="Videoton 1010B" file="1010 BM.jpg" cim="Videoton. Az R10 gép egyik változata, a 1010B."/>
+			</eloadas>
+			<eloadas name="Egységes Számítógép Rendszer (ESZR)" directory="eszr2">
+				<kep name="Videoton 1010B" file="..\eszr\1010 BM.jpg" cim="Videoton. Az R10 gép egyik változata, a 1010B."/>
+				<kep name="EMG 830" file="..\eszr\NAPT49.jpg" cim="Az EMG 830. Az ország elsõ tranzisztoros számítógépe, Klatsmányi Arpád alkotása."/>
+				<kep name="Videoton EC 10-11" file="..\eszr\EC1011.jpg" cim="Videoton. Az R10 gép egyik változata, az EC 10-11."/>
+				<kep name="VT kiállítás" file="..\eszr\VT KIALLITAS.jpg" cim="Videoton. A cég mindig jelen volt nem csak a magyar, hanem a külföldi kiállításokon is."/>
+				<kep name="Videoton EC 1010B" file="..\eszr\EC 1010B.jpg" cim="Videoton. Az R10 gép egyik változata, az EC 1010B."/>
+				<kep name="Videoton VT 340" file="..\eszr\VT340.jpg" cim="A Videoton VT 340-es terminálja. A Volán Elektronika ezt a terminált kapcsolta a UNIVAC számítógépeihez."/>
+				<kep name="VT nyomtató" file="..\eszr\VT NYOMTATO01.jpg" cim="Videoton. Az R10 gépekhez, vásárolt licenc alapján gyártott sornyomtató."/>
+				<kep name="Videoton EC 1012" file="..\eszr\VT EC1012.jpg" cim="Videoton. Az R10 gép egyik továbbfejlesztett változata, az EC 1012."/>
+				<kep name="SzKI R 10" file="..\eszr\SZKI R10.jpg" cim="A francia CII MITRA 15 honosításából az SzKI-ban kifejlesztett EszR R 10-es miniszámítógép. Az SzKI és a Videoton Fejlesztõ Intézet (VIFI) is kidolgozta a maga változatát. "/>
+				<kep name="Mobil R10" file="..\eszr\R10 BELUL.jpg" cim="Az R10-es számítógép katonai teherautóba szerelve. A Videoton sohasem gyártotta."/>
+				<kep name="ESZR kiállítás GD 70" file="..\eszr\GD70_2.jpg" cim="Az MTA SzTAKI az elsõ ESzR kiállításon. A GD 70 az elsõ hazai grrafikus terminál. Egy TPA 70 számítógép hajtotta meg."/>
+				<kep name="EszR kiállítás, Moszkva" file="..\eszr\SZKI R10.jpg" cim="A moszkvai EszR kiállítás. Az SzKI-ban az EszR rendszerhez adaptált R10."/>
+				<kep name="Mobil R 10" file="..\eszr\R10 BELUL.jpg" cim="Az SzKi mobil R-10 számítógépe egy gépkocsiba szerelve. Katonai célra, illetve a terepen geológusok használták "/>
+				<kep name="SzÁMOK székház" file="..\eszr\SZAMOK.jpg" cim="A SzÁMOK székháza a Szakasits Árpád úton. A számítástechnika minden ágában (hardver, szoftver, szervezõk) képeztek ki embereket."/>
+				<kep name="Faragó Sándor" file="..\eszr\FARAGO SANDOR.jpg" cim="Faragó Sándor, a SzÁMOK alapítója. A SzÁMOK volt az elsõ informatikát oktató hazai intézet. CDC oktatási licencet vásároltak."/>
+				<kep name="ESzR számítógép" file="..\eszr\VDT_620C.jpg" cim="Az egyik legnagyobb hazai ESzR konfiguráció"/>
+				<kep name="Videoton VDT 52100" file="..\eszr\VDT52100.jpg" cim="A Videoton VDT 52100-as terminálja. Továbbfejlesztett és formatervezett terminál, mind Magyarországon, mind a szocialista országokban igen népszerû volt."/>
+				<kep name="EMG 666" file="..\emg\EMG 666.jpg" cim="Az Elektronikus Mérõkészülékek Gyára. Az EMG 666 mikroszámítógép."/>
+				<kep name="Telefongyár" file="..\eszr\TRT ADATELOKESZITO.jpg" cim="A Telefongyár. A gyár TRT emblémával adatelõkészítõ berendezéseket, terminálokat és telekommunikációs eszközöket gyártott."/>
+				<kep name="Kazettás floppy" file="..\brg\NAPT44.jpg" cim="Jánosi Marcell, a BRG fõkonstruktõre a kazettás floppy memória feltalálója."/>
+				<kep name="MOM lemezgyártás " file="..\mom\MOM LEMEZGYARTAS.jpg" cim="A Magyar Optikai Mûvek. Merevlemezes mágnestárcsás-memóriákat gyártott."/>
+				<kep name="MOM Floppy" file="..\mom\MOM FLOPPY.jpg" cim="A Magyar Optikai Mûvek. A nemzeti EszR együttmûködésben a mozgómágneses memóriák és a papírszalagos I/O készülékek gyártását vállalta. "/>
+				<kep name="Mobil R10" file="..\eszr\MOBIL R10.jpg" cim="A teherautóba szerelt SzKI R10-es számítógép"/>
+				<kep opt="VT kiállítás" file="..\eszr\VT KIALLITAS.jpg" cim="Videoton. A cég mindig jelen volt nem csak a magyar, hanem a külföldi kiállításokon is."/>
+				<kep opt="EszR kiállítás, Moszkva" file="..\eszr\SZKI R10.jpg" cim="A moszkvai EszR kiállítás. Az SzKI-ban az EszR rendszerhez adaptált R10."/>
+				<kep opt="ESzR számítógép" file="..\eszr\VDT_620C.jpg" cim="Az egyik legnagyobb hazai ESzR konfiguráció"/>
+			</eloadas>
+			<eloadas name="Egységes Számítógép Rendszer (ESZR)" directory="eszr3">
+				<kep name="TPA 1001" file="..\kfki\TPA 1001.jpg" cim="A KFKI elsõ DEC klónja"/>
+				<kep name="TPA 1101" file="..\eszr\TPA 1101.jpg" cim="A Központi Fizikai Kutató Intézet. A TPA 1101, egy DEC PDP 1101 klón. Ezeket a gépeket gyártották a szocialista országokban az MSzR (Mini EszR) program keretében."/>
+				<kep name="SzKI M 05X" file="..\eszr\NAPT55.jpg" cim="Az M 05X. Az SzKI-ban kifejlesztett elsõ mikroszámítógép."/>
+				<kep name="SzKI Proper 8" file="..\eszr\NAPT59.jpg" cim="SzKI Proper 8. Az Intézetben kifejlesztett IBM PC XT klón. A világ egyik elsõ PC klónja. "/>
+				<kep name="Proper 8" file="..\eszr\PROPER 8.jpg" cim="SzKI Proper 8. Az Intézetben kifejlesztett IBM PC XT klón. A világ egyik elsõ PC klónja. "/>
+				<kep name="SzKI M 08X" file="..\eszr\M08X.jpg" cim="SzKI M 08X. A Számítástechnikai Koordinációs Intézetben kifejlesztett általános célú mikroszámítógép."/>
+				<kep name="SzKI M 08X diszk " file="..\mom\M08XDISZK.jpg" cim="SzKI M 08X. A géphez két 8''-os floppy tartozott."/>
+				<kep name="SzKI mátrix nyomtató" file="..\eszr\SZKI MATRIXNYOMTATO.jpg" cim="SzKI mátrix nyomtató. A Proper gépekhez kifejlesztett kisméretû mátrix nyomtató."/>
+				<kep name="SzKI M 05X alkalmazás" file="..\eszr\M 05X VARIACIO.jpg" cim="Az M 05X-el kiépített egyik alkalmazás. A gépet elsõsorban cél-rendszerekben alkalmazták."/>
+				<kep name="ESzR számítógép" file="..\eszr\VDT_620C.jpg" cim="Az egyik legnagyobb hazai ESzR konfiguráció"/>
+				<kep name="Náray Zsolt" file="..\eszr\NARAY ZSOLT.jpg" cim="Náray Zsolt, az SzKI alapító fõigazgatója. A KFKI tudományos igazgatóhelyetteseként, mint az EszR fõkonstruktõre indította el - 1968-ban - az SzKI-t."/>
+				<kep name="VT 340 terminál" file="..\eszr\VT 340 TERMINAL.jpg" cim="A Videoton VT 340-es terminálja. Az elsõ használható terminál, amit Magyarországon, de a keleti-blokk országaiban is nagyon sok - keleti és nyugati - számítógépnél alkalmaztak. "/>
+				<kep name="SzKI R 10" file="..\eszr\SZKI R10.jpg" cim="A francia CII MITRA 15 honosításából az SzKI-ban kifejlesztett EszR R 10-es miniszámítógép. Az SzKI és a Videoton Fejlesztõ Intézet (VIFI) is kidolgozta a maga változatát. "/>
+				<kep name="Videoton VDT 52100" file="..\eszr\VDT52100.jpg" cim="A Videoton VDT 52100-as terminálja. Továbbfejlesztett és formatervezett terminál, mind Magyarországon, mind a szocialista országokban igen népszerû volt."/>
+				<kep name="SzKI R10 a laboratóriumban" file="..\eszr\R10.jpg" cim="Az SzKI R10-es számítógépe. Sohasem gyártották."/>
+				<kep name="SzKI M 05X" file="..\eszr\NAPT55.jpg" cim="Az M 05X. Az SzKI-ban kifejlesztett elsõ mikroszámítógép."/>
+				<kep name="SzKI M 05X alkalmazás" file="..\eszr\M 05X VARIACIO.jpg" cim="Az M 05X-el kiépített egyik alkalmazás. A gépet elsõsorban cél-rendszerekben alkalmazták."/>
+				<kep name="SzKI M 08X" file="..\eszr\M08X.jpg" cim="SzKI M 08X. A Számítástechnikai Koordinációs Intézetben kifejlesztett általános célú mikroszámítógép."/>
+				<kep name="Proper 8" file="..\eszr\PROPER 8.jpg" cim="SzKI Proper 8. Az Intézetben kifejlesztett IBM PC XT klón. A világ egyik elsõ PC klónja. "/>
+				<kep opt="Náray Zsolt" file="..\eszr\NAPT56.jpg" cim="Náray Zsolt, az SzKI alapító fõigazgatója "/>
+			</eloadas>
+		</tema>
+		<tema name="Perifériák.">
+			<eloadas name="A kazettás floppy" directory="brg">
+				<kep name="Jánosi Marcell" file="NAPT40.jpg" cim="Jánosi Marcell, a Budapesti Rádiótechnikai Gyár fõkonstruktõre. A kazettás floppy feltalálója "/>
+				<kep name="MCD-1 kazettás floppy" file="BRG_FLOPPY.jpg" cim="Az MCD-1, a világ elsõ kazettás floppy-ja Évekkel megelõzte az amerikai és a japán feltalálókat"/>
+				<kep name="A kazettás floppy" file="NAPT44.jpg" cim="A kazettás floppy. Tízszer kisebb méretû volt, mint a korszerûtlenebb amerikai - papírtasakos - változat."/>
+				<kep name="Jánosi Marcell szabadalma" file="NAPT43.jpg" cim="Jánosi Marcell 1980. július 29-i szabadalma. A szabadalom, mert a gyár nem hosszabbította meg az érvényességét, elveszett."/>
+				<kep opt="MCD-1 kazettás floppy" file="BRG_FLOPPY.jpg" cim="Az MCD-1, a világ elsõ kazettás floppy-ja Évekkel megelõzte az amerikai és a japán feltalálókat"/>
+				<kep name="Jánosi Marcell Állami Díja" file="NAPT41.jpg" cim="Jánosi Marcell Állami Díja. Díjazták, de a találmányát nem engedték értékesíteni"/>
+				<kep opt="A kazettás floppy" file="NAPT44.jpg" cim="A kazettás floppy. Tízszer kisebb méretû volt, mint a korszerûtlenebb amerikai - papírtasakos - változat."/>
+				<kep opt="Jánosi Marcell szabadalma" file="NAPT43.jpg" cim="Jánosi Marcell 1980. július 29-i szabadalma. A szabadalom, mert a gyár nem hosszabbította meg az érvényességét, elveszett."/>
+				<kep opt="Jánosi Marcell" file="NAPT40.jpg" cim="Jánosi Marcell, a Budapesti Rádiótechnikai Gyár fõkonstruktõre. A kazettás floppy feltalálója "/>
+				<kep opt="Jánosi Marcell Állami Díja" file="NAPT41.jpg" cim="Jánosi Marcell Állami Díja. Díjazták, de a találmányát nem engedték értékesíteni"/>
+			</eloadas>
+			<eloadas name="A számítógéphez kapcsolt tájékoztató tábla" directory="fokgyem">
+				<kep name="Eredményjelzõ tábla " file="FOKGYEM TABLA.jpg" cim="Számítógéppel vezérelt eredményjelzõ tábla. A Fok-Gyem szövetkezet gyártmánya, állomásokon, sportcsarnokokban stb használták."/>
+				<kep name="R10 és tábla" file="MOBILR10.jpg" cim="A számítógéppel vezért eredményjelzõ tábla a moszkvai EszR kiállításon. Az elsõ EszR kiállításon az SzKI kiállította az országban elsõ mobil R10-es számítógépet, amihez hozzákapcsolták a Fok-Gyem eredményjelzõ tábláját."/>
+				<kep name="Mobil R10" file="..\eszr\R10 BELUL.jpg" cim="Az R10-es számítógép katonai teherautóba szerelve. A Videoton sohasem gyártotta."/>
+				<kep opt="R10 és tábla" file="MOBILR10.jpg" cim="A számítógéppel vezért eredményjelzõ tábla a moszkvai EszR kiállításon. Az elsõ EszR kiállításon az SzKI kiállította az országban elsõ mobil R10-es számítógépet, amihez hozzákapcsolták a Fok-Gyem eredményjelzõ tábláját."/>
+				<kep name="Juhász István " file="..\juhasz\NAPT35.jpg" cim="Juhász István (1894-1981). A GAMMA-Juhász lõelemképzõ feltalálója, a GAMMA gyár egyik tulajdonosa."/>
+			</eloadas>
+			<eloadas name="A MOM perifériái" directory="mom">
+				<kep name="MOM lemezgyártás " file="MOM LEMEZGYARTAS.jpg" cim="A Magyar Optikai Mûvek. Mozgó-mágneses - tárcsa - memóriákat gyártottak az EszR rendszerhez."/>
+				<kep name="MOM merevlemez" file="MOM MEREVLEMEZ.jpg" cim="A MOM merevlemez. A tisztaszobában, a mai merevlemezeknél nagyobb átmérõjû memóriákat gyártottak francia licenc alapján."/>
+				<kep name="MOM floppy " file="MOM FLOPPY.jpg" cim="A Magyar Optikai Mûvek. Licenc alapján gyártott 8''-os floppy."/>
+				<kep name="FLOPPYMAT " file="..\edla\FLOPPYMAT.jpg" cim="A FLOPPYMAT. A VILATI-nak az adatokat floppy-n tároló adatelõkészítõ berendezése."/>
+				<kep name="Rosytext szövegszerkesztõ" file="..\rosytext\ROSYTEXT 01.jpg" cim="A Rosytext. A Rolitron szövegszerkesztõ mikroszámítógépe."/>
+				<kep name="SzKI M 08X diszk " file="M08XDISZK.jpg" cim="SzKI M 08X. A géphez két 8''-os floppy tartozott."/>
+				<kep name="ReadMOM" file="READ MOM.jpg" cim="A Magyar Optikai Mûvek. Lyukszalagolvasó berendezés: a ReadMOM."/>
+				<kep name="A MOM bontása" file="MOM BONTAS.jpg" cim="A Magyar Optikai Mûvek. A 90-es években nem sikerült a gyárat privatizálni, ezért lebontották."/>
+			</eloadas>
+		</tema>
+	</eloadasok>
+	<videok name="Videók">
+		<vid name="Armand Segall" file="armand_segall.rm" cim="Armand Segall"/>
+		<vid name="P. E. Ceruzzi" file="ceruzzi.rm" cim="P. E. Ceruzzi"/>
+		<vid name="Dömölki Bálint" file="domolki_balint.rm" cim="Dömölki Bálint"/>
+		<vid name="Faragó Sándor" file="farago_sandor.rm" cim="Faragó Sándor"/>
+		<vid name="Farrington dékán" file="farrington.rm" cim="Farrington dékán"/>
+		<vid name="Hermann H. Goldstine" file="goldstine.rm" cim="Hermann H. Goldstine"/>
+		<vid name="Havas Miklós" file="havas_miklos.rm" cim="Havas Miklós"/>
+		<vid name="Horváth Gyula" file="horvath_gyula.rm" cim="Horváth Gyula"/>
+		<vid name="Horváth István" file="horvath_istvan.rm" cim="Horváth István"/>
+		<vid name="Jánosi Marcell" file="janosi_marcell.rm" cim="Jánosi Marcell"/>
+		<vid name="Josif Kaufmann" file="josif_kaufmann.rm" cim="Josif Kaufmann"/>
+		<vid name="Kardos Kálmán" file="kardos_kalman.rm" cim="Kardos Kálmán"/>
+		<vid name="Klatsmányi Árpád" file="klatsmanyi_arpad.rm" cim="Klatsmányi Árpád"/>
+		<vid name="Kovács Gyõzõ" file="kovacs_gyozo.rm" cim="Kovács Gyõzõ"/>
+		<vid name="Kovács Gyõzõné" file="kovacs_gyozone.rm" cim="Kovács Gyõzõné"/>
+		<vid name="Lõcs Gyula" file="locsgyula.rm" cim="Lõcs Gyula"/>
+		<vid name="Maurice Wilkes" file="maurice_wilkes.rm" cim="Maurice Wilkes"/>
+		<vid name="Muszka Dániel" file="muszka_daniel.rm" cim="Muszka Dániel"/>
+		<vid name="Neumann Miklós" file="neumann_miklos.rm" cim="Neumann Miklós"/>
+		<vid name="Szelezsán János" file="szelezsan_janos.rm" cim="Szelezsán János"/>
+		<vid name="Szentiványi Tibor" file="szentivanyi_tibor.rm" cim="Szentiványi Tibor"/>
+		<vid name="Vasile Baltac" file="vasile_baltac.rm" cim="Vasile Baltac"/>
+		<vid name="Victor Toma" file="victor_toma.rm" cim="Victor Toma"/>
+	</videok>
+	<exit name="Kilépés"/>
+</main>

@@ -1,0 +1,2 @@
+[ID.TXT]
+Appl=gyozo

@@ -1,0 +1,1 @@
+Magyarországi számítástechnika kezdeteit bemutató CD. Töltsd le az egészet és a Start.exe -vel indítható
